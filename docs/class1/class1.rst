@@ -1,6 +1,28 @@
-Symposium 2025 Cert:101 TMOS Fundamentals
+Appworld 2026 - TMOS Architecture
 ================================================
-This lab can be used to learn the fundaments in setting up BIG-IP Local Traffic Managers and learn the basics building blocks for all other BIG-IP solutions.  It can also be used to prepare for F5 101, 201 and 301a certification exams.
+Overview:
+This two-hour hands-on lab will guide participants through the architectural fundamentals BIG-IP TMOS operating system and learn the basic building blocks for all other BIG-IP solutions. Attendees will gain practical experience in understanding, deploying, configuring, and managing the basic configurable elements in TMOS which is the core component of the BIG-IP Application Delivery & Security Platform. By the end of the lab, participants will have a deeper understanding on the architecture of TMOS and design principles, core structure of the configurable objects, and how they are able to work together to deliver your critical business and mission critical applications in an enterprise environment.
+ 
+Objectives: 
+1.	Understand TMOS core components
+2.	Understand packet flows
+3.	Identify and configure virtual objects
+4.	Understand statistics and analytics
+
+Prerequisites:  
+•	Laptop with Internet Access and a web browser
+•	Register your email as class attendees
+  
+Contents: 
+•	Lab 1: The Basics (Networking, Pools and Virtual Servers)
+•	Lab 2: Load Balancing, Monitoring and Persistence
+•	Lab 3: SSL Offload and Security
+•	Lab 4: BIG-IP Policies and iRules
+•	Lab 5: Support and Troubleshooting
+•	Lab 6: Device Service Clusters (DSC)
+•	Bonus Lab: Traffic groups, iApps and Active-Active
+
+ Expected time to complete: 2 hours
 
 .. toctree::
    :maxdepth: 1
